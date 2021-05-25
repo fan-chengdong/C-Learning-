@@ -1,0 +1,1 @@
+void QuickSort(int array[], int size, int start, int last);
