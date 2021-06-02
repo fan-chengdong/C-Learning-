@@ -1,6 +1,7 @@
 ﻿#include <stdio.h>
 #include "insert_sort.h"
 #include "helper.h"
+/*
 #include "quick_sort.h"
 #include "bubble_sort.h"
 int main()
@@ -25,5 +26,6 @@ int main()
 	PrintArray(array3, size3);
 	return 0;
 }
+*/
 
 

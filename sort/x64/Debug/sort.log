@@ -1,2 +1,5 @@
-﻿  bubble_sort.c
-  sort.vcxproj -> E:\C\sort\x64\Debug\sort.exe
+﻿  name_value.c
+e:\c-learning-\sort\name_value.c(15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c-learning-\sort\name_value.c(67): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  e:\c-learning-\sort\name_value.c(67): note: 请考虑在格式字符串中使用“%zd”
+  sort.vcxproj -> E:\C-Learning-\sort\x64\Debug\sort.exe

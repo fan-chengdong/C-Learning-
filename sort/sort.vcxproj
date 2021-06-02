@@ -155,6 +155,7 @@
     <ClCompile Include="helper.c" />
     <ClCompile Include="insert_sort.c" />
     <ClCompile Include="merge_sort.c" />
+    <ClCompile Include="name_value.c" />
     <ClCompile Include="quick_sort.c" />
     <ClCompile Include="sort.c" />
   </ItemGroup>
